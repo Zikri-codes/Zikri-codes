@@ -26,8 +26,7 @@
 ## 📊 GitHub Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zikri-Li&theme=catppuccin&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)  
-![Zikri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zikri-Li&show_icons=true&theme=catppuccin_mocha)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zikri-Li&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)  
+![Zikri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zikri-Li&show_icons=true&theme=catppuccin_mocha)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zikri-Li&layout=compact&theme=catppuccin_mocha)
 ![Top Web Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zikri-Li&layout=compact&langs_count=8&hide=python&theme=catppuccin_mocha)
 ![Top Non Web Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zikri-Li&layout=compact&langs_count=8&hide=html,css,js&theme=catppuccin_mocha)
