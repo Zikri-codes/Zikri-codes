@@ -19,7 +19,7 @@
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,bootstrap,tailwind&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js&theme=light)](https://skillicons.dev)
 
 ---
 
