@@ -1,7 +1,7 @@
 # 👋 Hi,I'm Zikri
 
 - 14 y.o self-taught **developer**
-- Future **A.I, A.G.I & A.S.I blockchain based engineer** 🚀
+- Future **A.I, A.G.I & A.S.I blockchain engineer** 🚀
 
 ---
 
