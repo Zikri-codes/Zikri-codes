@@ -3,8 +3,6 @@
 - 14 y.o self-taught **developer**
 - Future **A.I, A.G.I & A.S.I blockchain engineer** 🚀
 
----
-
 ## ❓About Me
 
 - 👋 Hi, I'm **Zikri**, 14 y.o self-taught developer from Indonesia🇮🇩
@@ -15,13 +13,9 @@
 - 🌌 Dream: become the first **A.I, A.G.I & A.S.I blockchain engineer** in the world
 - 📱Fun fact: currently I'm coding on **My Phone**
 
----
-
 ## 💻 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js&theme=light)](https://skillicons.dev)
-
----
 
 ## 📊 GitHub Stats
 <details>
@@ -33,8 +27,6 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zikri-codes&layout=compact&theme=catppuccin_mocha)
 
 </details>
-
----
 
 ## 📈 Skills Progress
 <details>
@@ -52,15 +44,9 @@
 
 </details>
 
-
-
----
-
 ## 📝 Quote
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Fall%20today,%20rule%20someday&author=Zikri)](https://github.com/piyushsuthar/github-readme-quotes)
-
----
+#### "Fall today 🧠, Rule Someday 🚀"
 
 ## 🌐 Connect with me
 
