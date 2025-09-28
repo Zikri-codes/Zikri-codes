@@ -15,7 +15,7 @@
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js&theme=dark)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 <details>
@@ -36,7 +36,7 @@
   |-----------|------------------------|
   | 🐍 Python | Learning → Beginner    |
   | 🌐 HTML   | Beginner → Intermediate|
-  | 🎨 CSS   | Learning → Beginner     |
+  | 🎨 CSS   | Beginner → Intermediate     |
   | 💻 JavaScript | Learning → Beginner |
   | ✂️ Editing | Intermediate → Advanced|
   | ⛓️ Blockchain | Learning → Beginner |
