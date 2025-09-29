@@ -21,10 +21,10 @@
 <details>
   <summary>🏆 My GitHub Overview</summary>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Zikri-codes&theme=dark&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)  
-  ![Zikri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zikri-codes&show_icons=true&theme=dark)  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Zikri-codes&theme=dark&short_numbers=true&card_width=466)](https://git.io/streak-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zikri-codes&layout=compact&theme=dark)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Zikri-codes&theme=light&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)  
+  ![Zikri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zikri-codes&show_icons=true&theme=light)  
+  [![GitHub Streak](https://https://git.io/streak-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zikri-codes&layout=compact&theme=light)
 
 </details>
 
