@@ -34,7 +34,7 @@
 
   | Skill      | Level                  |
   |-----------|------------------------|
-  | 🐍 Python | Learning → Beginner    |
+  | 🐍 Python | Beginner → Intermediate  |
   | 🌐 HTML   | Beginner → Intermediate|
   | 🎨 CSS   | Beginner → Intermediate     |
   | 💻 JavaScript | Learning → Beginner |
