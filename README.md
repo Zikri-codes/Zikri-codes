@@ -1,10 +1,11 @@
 ## Yoo, i'm zikri
 self-taught developer yk as very usual lol
 and i want to make an AI
-
 <details>
   <summary></summary>
-> and idk why im learning html when i want to make an AI. whichh meann.... that, i waste my time. but yk, idc
+  and idk why im learning html (frontend) when i want to make an AI. whichh meann.... that, i waste my time. but yk, idc
+
+  and funfact: all the description and markdown in every repo in my github, isss made by an AI. yk i'm not good enough to make a such beautiful readme.md.
 </details>
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js&theme=light)](https://skillicons.dev)
@@ -29,6 +30,8 @@ and i want to make an AI
 | html | beginner |
 | css | beginner |
 | js | below beginner |
+
+---
 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zikri.codes@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zikriwannabeeditor)
