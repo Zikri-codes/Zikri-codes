@@ -1,5 +1,8 @@
-# 👋 Hi,I'm Zikri
+## Yoo, i'm zikri
+self-taught developer yk as very usual lol
+and i want to make an AI
 
+<<<<<<< HEAD
 - 14 y.o self-taught **developer**
 - Future **A.I, A.G.I & A.S.I blockchain engineer** 🚀
 
@@ -18,9 +21,23 @@
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js&theme=light)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
+=======
 <details>
-  <summary>🏆 My GitHub Overview</summary>
+  <summary></summary>
+> and idk why im learning html when i want to make an AI. whichh meann.... that, i waste my time. but yk, idc
+</details>
 
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js&theme=light)](https://skillicons.dev)
+
+## my best project ig
+- [portals](https://github.com/Zikri-codes/Portals) 
+
+## idk what is this (jk)
+>>>>>>> 2d12cc1 (Update README.md)
+<details>
+  <summary>here</summary>
+
+<<<<<<< HEAD
   [![trophy](https://github-profile-trophy.vercel.app/?username=Zikri-codes&theme=dark&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)  
   ![Zikri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zikri-codes&show_icons=true&theme=dark)  
   [![GitHub Streak](https://https://git.io/streak-stats)
@@ -53,9 +70,21 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zikri-codes)
+=======
+  ![Zikri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zikri-codes&show_icons=true&theme=catppuccin_mocha)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zikri-codes&layout=compact&theme=catppuccin_mocha)
+
+</details>
+
+## my skills level
+
+| skill | level |
+|---|---|
+| python | beginner |
+| html | beginner |
+| css | beginner |
+| js | below beginner |
+
+>>>>>>> 2d12cc1 (Update README.md)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zikri.codes@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zikriwannabeeditor)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zikridev)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@zikrinothuman)
-
-</div>
