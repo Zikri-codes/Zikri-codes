@@ -14,7 +14,6 @@ self taught dev, and i code through phone
 **pinned project:**
 
 [![portals](https://img.shields.io/badge/✦_portals-000000?style=for-the-badge)](https://github.com/leverec/portals)
-
 [![MATEC](https://img.shields.io/badge/✦_MATEC-000000?style=for-the-badge)](https://github.com/leverec/MATEC)
 
 **social:**
