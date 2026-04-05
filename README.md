@@ -9,7 +9,6 @@ self taught dev, and i code through phone
 **currently i'm learning:**
 
 ![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
 
 **pinned project:**
 
