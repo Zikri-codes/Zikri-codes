@@ -10,20 +10,20 @@ Yo gng i'm leverec, ik i look like a regular **15yo** but im actually a low-leve
 
 funfact: i can't properly speak english, soo most of the markdown you've seen is made by an AI
 
-### Tech Stack (Thumb-powered)
+## Tech Stack (Thumb-powered)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### Pinned Projects
+## Pinned Projects
 [![MATEC](https://img.shields.io/badge/MATEC-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/leverec/MATEC)
 [![Portals](https://img.shields.io/badge/Portals-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/leverec/Portals)
 [![Lustro](https://img.shields.io/badge/Lustro-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/leverec/lustro)
 
-### Stats
+## Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leverec&layout=compact&theme=tokyonight" alt="Langs" />
 
-### FAQ
+## FAQ
 
 <details>
 <summary><b>Q: How do you code on a smartphone?</b></summary>
@@ -52,7 +52,7 @@ A: _Because I’d rather deal with complex logic than spend 3 hours trying to ce
 *Me: Moves a button 1px to the left* *The whole layout: "Understandable, have a terrible day"* 💀
 </details>
 
-### Connect w me
+## Connect w me
 [![Twitter](https://img.shields.io/badge/X(Twitter)-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/leverec_)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itsleverec)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zikri.codes@gmail.com)
