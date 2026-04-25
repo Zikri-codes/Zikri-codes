@@ -56,6 +56,5 @@ A: _Because I’d rather deal with complex logic than spend 3 hours trying to ce
 </details>
 
 ## Connect w me
-[![Twitter](https://img.shields.io/badge/X(Twitter)-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/leverec_)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itsleverec)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/leverec_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zikri.codes@gmail.com)
