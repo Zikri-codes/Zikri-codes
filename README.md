@@ -6,6 +6,8 @@
   <img src="https://media.tenor.com/LsSa4OpHOaoAAAAi/gawr-gura-gura.gif" width="300">
 </p>
 
+making non sense shit
+
 Yo gng i'm leverec, ik i look like a regular **15yo** but im actually a low-level wizard lol. Been grindin python for like 9 months but now im learning rust (yea, the crab language). Fun fact: i do all my codin on my phone cuz why not? Mobile dev hits different fr fr. If my code looks weird, just remember it was typed w my thumbs lmao.
 
 funfact: i can't properly speak english, soo most of the markdown you've seen is made by an AI
